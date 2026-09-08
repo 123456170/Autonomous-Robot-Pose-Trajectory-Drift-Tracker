@@ -1,8 +1,8 @@
-streamlit
-opencv-python-headless
 numpy
 pandas
-scikit-learn
 plotly
 pydantic
+scikit-learn
+streamlit
 pytest
+opencv-python-headless
